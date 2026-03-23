@@ -53,6 +53,7 @@ Relationship between distance and payout
 Area-wise and time-based cost patterns
 
 The dashboard enables quick identification of cost drivers and performance trends.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/244f3ef8-4ad2-4948-8666-2468b57d3948" />
 
 📈 Key Insights
 3P deliveries show higher CPD due to increased per-km payout structures
@@ -80,5 +81,7 @@ Improve operational decision-making
 Enable data-driven capacity and cost planning
 📎 Project Assets
 Tableau Dashboard: https://public.tableau.com/app/profile/yuvraj.sharma2003/viz/LastMileDeliveryCostPerformanceAnalysisSQLTableau/Dashboard1
+
 SQL Scripts: https://github.com/yuvraj2503/ALast-Mile-Delivery-Cost-Performance-Analysis-SQL-Tableau/tree/main
+
 Dataset: https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset?resource=download
